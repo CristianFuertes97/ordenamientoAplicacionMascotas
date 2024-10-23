@@ -20,14 +20,13 @@
 <h2>Instalación</h2>
 <p>Para instalar y ejecutar la aplicación, sigue estos pasos:</p>
 <ol>
-    <li>Clona el repositorio desde <code>https://github.com/usuario/repo-mascotas</code>.</li>
-    <li>Asegúrate de tener instalado <code>Node.js</code> y las dependencias necesarias (si corresponde).</li>
-    <li>Ejecuta el comando <code>npm install</code> para instalar las dependencias.</li>
-    <li>Inicia la aplicación con <code>npm start</code> o el comando correspondiente a tu entorno.</li>
+    <li>Abre tu gitBash y ejecuta el comando git clone.</li>
+    <li>Clona el repositorio desde <code>https://github.com/CristianFuertes97/ordenamientoAplicacionMascotas.git</code>.</li>
+    <li>Asegúrate de tener instalado <code>Intellij IDEA</code> o <code>VisualStudioCode </code>.</li>
 </ol>
 
 <h2>Uso</h2>
-<p>Una vez que la aplicación esté ejecutándose, podrás interactuar con las siguientes funcionalidades desde la interfaz de usuario:</p>
+<p>Una vez que la aplicación esté ejecutándose, podrás interactuar con las siguientes funcionalidades desde la interfaz de usuario: en la clase <code>Principal.js</code></p>
 <ul>
     <li><strong>Agregar un nuevo perro:</strong> Proporciona los detalles del perro (nombre, raza, edad, puntos) y añádelo a la lista.</li>
     <li><strong>Ordenar perros:</strong> Selecciona el criterio (raza, edad o puntos) para ordenar la lista.</li>

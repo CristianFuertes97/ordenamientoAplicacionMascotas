@@ -6,7 +6,7 @@
     <li><strong>Agregar un perro:</strong> Permite agregar un nuevo perro a la lista con información como nombre, raza, edad y puntos.</li>
     <li><strong>Ordenar la lista:</strong> Puedes ordenar la lista de perros por:
 <ul>
-     <li><code>Raza</code></li>
+    <li><code>Raza</code></li>
     <li><code>Edad</code></li>
     <li><code>Puntos</code></li>
 </ul>
@@ -37,5 +37,5 @@
     <li><strong>Buscar un perro por nombre:</strong> Ingresa el nombre del perro y obtén su información si existe en la lista.</li>
 </ul>
 
-<h2>Contribuciones</h2>
-<p>Las contribuciones son bienvenidas. Si deseas mejorar la aplicación o corregir algún problema, por favor, abre un pull request en el repositorio.</p>
+<h2>Elaborado por</h2>
+<p>Cristian Fuertes</p>
